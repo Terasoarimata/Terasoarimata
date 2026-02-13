@@ -1,7 +1,8 @@
 # Arimata Gallery | Produsen & Info Harga Jual Pot Teraso Indonesia
 
 
-Produsen produk teraso & dekorasi taman untuk hunian dan proyek di Indonesia.
+Arimata Gallery adalah produsen teraso Indonesia yang melayani jual pot teraso, bak mandi teraso, wastafel teraso, serta dekorasi taman untuk hunian dan proyek komersial.
+
 
 ## 🌐 Website Resmi
 🔗 https://arimatagallery.com
