@@ -1,16 +1,24 @@
-## Hi there 👋
+# Arimata Gallery
 
-<!--
-**Terasoarimata/Terasoarimata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Produsen produk teraso & dekorasi taman untuk hunian dan proyek di Indonesia.
 
-Here are some ideas to get you started:
+## 🌐 Website Resmi
+🔗 https://arimatagallery.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏺 Produk Unggulan
+- Pot teraso
+- Bak mandi teraso
+- Wastafel teraso
+- Air mancur klasik
+- Dekorasi taman & elemen arsitektur
+
+## 📌 Informasi & Harga
+Panduan lengkap model, ukuran, dan harga jual produk teraso tersedia di website resmi Arimata Gallery.
+
+## 🔗 Laman Terkait
+- https://bterazo.com  
+- https://aluminiumarimata.com  
+
+## 📱 Social Media
+- Instagram: https://www.instagram.com/arimatagallery/  
+- YouTube: https://www.youtube.com/@arimatagallery9
